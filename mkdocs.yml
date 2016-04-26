@@ -1,0 +1,6 @@
+site_name: pytest-smcweb
+site_description: SMC WEB plugin with Pytest
+
+theme: readthedocs
+
+repo_url: https://github.com/mein227/pytest-smcweb
